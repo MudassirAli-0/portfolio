@@ -49,8 +49,13 @@ function Projects() {
             <ProjectButton title="Creative" />
             </a>
             
-            <ProjectButton title="Dashboard" />
+            <a target='_blank' href="https://mudassirali-0.github.io/movieapi/">
+            <ProjectButton title="Movie Api" />
+            </a>
+
+            <a target='_blank' href=" https://mudassirali-0.github.io/calculator/">
             <ProjectButton title="Calculator" />
+            </a>
         </div>
     </div>
 </section>
