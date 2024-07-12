@@ -46,9 +46,9 @@ function Projects() {
             </a>
             
             <a target='_blank' href=" https://mudassirali-0.github.io/creative/">
-            <ProjectButton title="Creative" />
+            <ProjectButton title="E-commerce Website" />
             </a>
-            
+
             <a target='_blank' href="https://mudassirali-0.github.io/movieapi/">
             <ProjectButton title="Movie Api" />
             </a>
